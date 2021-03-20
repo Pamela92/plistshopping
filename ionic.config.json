@@ -1,0 +1,7 @@
+{
+  "name": "plistshopping",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
